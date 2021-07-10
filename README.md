@@ -1,1 +1,2 @@
-# Geologist-Wrong
+# Geologist
+Geologist Project
